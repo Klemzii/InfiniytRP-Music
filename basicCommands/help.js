@@ -13,7 +13,7 @@ module.exports = {
       .setColor('#2b71ec')
       .setAuthor({
         name: 'Im here to Help!',
-        iconURL: 'https://cdn.discordapp.com/attachments/1136698225684922389/1255141289872199740/server_logo.png?ex=667c0cea&is=667abb6a&hm=c01e669cb19b8d757665c5e4f60a8f2cf674966c54761270873dbe3f81e43f2b&', 
+        iconURL: 'https://cdn.discordapp.com/attachments/1200423304176078881/1255146421988888596/Infinity_RP.png?ex=667c11b2&is=667ac032&hm=6d86ab9e1089522013432c64f95b1be8733872bcbbaf83e98ae903897105a49d&', 
         url: 'https://discord.gg/PpvGGdDskT'
     })
      
@@ -51,7 +51,7 @@ module.exports = {
         }
       )
       .setThumbnail(botUser.avatarURL({ dynamic: true, format: 'png', size: 1024 }))
-      .setImage(`https://cdn.discordapp.com/attachments/1136698225684922389/1255141289872199740/server_logo.png?ex=667c0cea&is=667abb6a&hm=c01e669cb19b8d757665c5e4f60a8f2cf674966c54761270873dbe3f81e43f2b&`);
+      .setImage(`https://cdn.discordapp.com/attachments/1200423304176078881/1255146421988888596/Infinity_RP.png?ex=667c11b2&is=667ac032&hm=6d86ab9e1089522013432c64f95b1be8733872bcbbaf83e98ae903897105a49d&`);
 
     const button1 = new ButtonBuilder()
       .setLabel('Web')
