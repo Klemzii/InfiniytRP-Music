@@ -13,7 +13,7 @@ module.exports = {
             .setAuthor({
               name: 'Support Server',
               iconURL: 'https://cdn.discordapp.com/attachments/1200423304176078881/1255146421988888596/Infinity_RP.png?ex=667c11b2&is=667ac032&hm=6d86ab9e1089522013432c64f95b1be8733872bcbbaf83e98ae903897105a49d&', 
-              url: 'https://discord.gg/xQF9f9yUEM'
+              url: 'https://discord.gg/PpvGGdDskT'
           })
             .setDescription(`➡️ **Pridruži se našemu discordu!:**\n- Discord - ${supportServerLink}\n\n➡️ **Ostala socialna omrežja:**\n- Web - ${githubLink}\n- TikTok - ${replitLink}\n- Strežnik - ${youtubeLink}`)
             .setImage('https://cdn.discordapp.com/attachments/1200423304176078881/1255146421988888596/Infinity_RP.png?ex=667c11b2&is=667ac032&hm=6d86ab9e1089522013432c64f95b1be8733872bcbbaf83e98ae903897105a49d&')
